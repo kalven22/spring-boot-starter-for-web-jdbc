@@ -45,6 +45,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>spring-boot-started-for-web-jdbc</finalName>
     </build>
 
 </project>
